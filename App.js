@@ -8,8 +8,8 @@ import { StyleSheet } from 'react-native';
 import StartScreen from './screens/StartScreen';
 import LoginScreen from './screens/LoginScreen';
 import RegisterScreen from './screens/RegisterScreen';
-import Home from './screens/Home'; // Importing combined Home component
-import Notification from './Tab/Notification'; // Assuming this is your Notification component
+import Home from './screens/Home'; 
+import Notification from './Tab/Notification'; 
 import Scanner from './screens/Scanner';
 
 const Stack = createNativeStackNavigator();
