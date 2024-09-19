@@ -1,0 +1,12 @@
+My Project Installation
+FireBase
+Stack Navigater
+Tab Navigater
+Drawer Navigater
+Firebase
+Map [npm install react-native-maps]
+Elements
+Icon
+Scannar
+Camera
+
